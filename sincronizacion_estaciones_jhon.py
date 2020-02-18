@@ -1,3 +1,4 @@
+# Script para actualizar capa de estaciones sincronizando tablas
 # Esri start of added imports
 import sys, os, arcpy
 import time
